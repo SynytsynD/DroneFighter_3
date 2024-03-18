@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DroneFighter_3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DroneFighter_3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DroneFighter_3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DroneFighter_3">
+      <UniqueIdentifier>{A965F455-ACD9-3153-86DD-2980DEF94EB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DroneFighter_3\Drone.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\Drone.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DroneFighter_3\DroneFighter_3.Build.cs">
+      <Filter>Source\DroneFighter_3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DroneFighter_3\DroneFighter_3.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\DroneFighter_3.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\DroneHUD.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\DroneHUD.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\DroneShoot.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\DroneShoot.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\DroneWidget.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\DroneWidget.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\Drone_GameMode.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\Drone_GameMode.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\Drone_PlayerController.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\Drone_PlayerController.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\EnemyDrone.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\EnemyDrone.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneFighter_3\EnemyDroneAIController.cpp">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneFighter_3\EnemyDroneAIController.h">
+      <Filter>Source\DroneFighter_3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

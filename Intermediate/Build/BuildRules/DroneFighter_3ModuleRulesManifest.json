@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Games\\UE5\\DroneFighter_3\\Source\\DroneFighter_3\\DroneFighter_3.Build.cs",
+		"D:\\Games\\UE5\\DroneFighter_3\\Source\\DroneFighter_3.Target.cs",
+		"D:\\Games\\UE5\\DroneFighter_3\\Source\\DroneFighter_3Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.0"
+}
